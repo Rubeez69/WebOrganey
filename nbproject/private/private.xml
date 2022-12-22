@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/admin/DashboardServlet.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/product/create.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/order_details/show.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/CheckOutServlet.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/model/Category.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/admin/category/IndexCategoryServlet.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/inc/sideleft.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/inc/navbar.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/impl/CategoryDaoImpl.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/inc/header.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/product-search.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/model/OrderDetailSession.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/impl/OrderDetailDaoImpl.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/product/edit.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/admin/BaseAdminServlet.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/category/edit.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/category/create.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/dao/OrderDetailDao.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/category/index.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/order/index.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/dashboard.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/HomeServlet.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/model/OrderDetail.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/data/impl/OrderDaoImpl.java</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/home.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/web/admin/product/index.jsp</file>
+            <file>file:/D:/Workspace/javaweb/WebAppH/src/java/org/organey/admin/category/DeleteCategoryServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
